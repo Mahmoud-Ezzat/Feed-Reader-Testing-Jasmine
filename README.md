@@ -21,7 +21,7 @@ Learnig Front End Testing Concept and how to writed well End to end test cases t
 By learning jasmine which is one of the most popular testing palteforms.
 
 ## COPYRIGHTS
-copyrights 2017 Feed Reader @zezo Mahomud
+copyrights 2017 Feed Reader @M_E
 
 
 
